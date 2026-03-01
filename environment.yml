@@ -1,0 +1,12 @@
+name: spain-flooding-2024
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - rasterio
+  - matplotlib
+  - geopandas
+  - leafmap
+  - scikit-image
+  - jupyter

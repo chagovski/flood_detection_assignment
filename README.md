@@ -1,0 +1,1 @@
+Example flood detection workflow based on Normalized Water Difference Index (NDWI) thresholding with the Otsu method.
